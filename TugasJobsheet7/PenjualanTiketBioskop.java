@@ -22,7 +22,6 @@ public class PenjualanTiketBioskop {
                     break; 
                 }
     
-
             // Pengecekan diskon
             double diskon = 0;
             if (jumlahTiket > 10) {
